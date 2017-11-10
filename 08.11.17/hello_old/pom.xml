@@ -1,0 +1,11 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.amdocs</groupId>
+   <artifactId>amdocs-hello-app</artifactId>
+   <version>1.0.0</version>
+
+   <build>
+       <sourceDirectory>.</sourceDirectory>
+       <outputDirectory>.</outputDirectory>
+   </build>
+</project>

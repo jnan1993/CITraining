@@ -1,0 +1,16 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   
+
+    <groupId>com.amdocs</groupId>
+    <artifactId>crm</artifactId>
+    <version>1.0.0</version>
+     
+
+     <modules>
+         <module>frontend</frontend>
+         <module>businesslayer</module>
+         <module>reports</module>
+         <module>main</module>
+     </modules>
+</project>
